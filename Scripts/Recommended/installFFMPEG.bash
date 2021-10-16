@@ -1,1 +1,1 @@
-sudo apt-get install ffmpeg;
+sudo apt-get -y install ffmpeg;

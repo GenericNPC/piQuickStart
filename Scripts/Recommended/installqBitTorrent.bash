@@ -1,1 +1,1 @@
-sudo apt-get install qbittorrent;
+sudo apt-get -y install qbittorrent;
