@@ -1,0 +1,13 @@
+When you open the terminal, type "pwd" to see your current working directory.
+
+Type "ls" to see the files and directory in the directory that you're currently in.
+
+To view more detailed information about those files and directories, use "ls -l".
+
+To change the directory that the terminal is using, type "cd <DirectoryName>".
+
+To read the contents of a file, type "cat <filename>"
+
+To run a script or open a file in the terminal (if possible), when you're in the directory of the file, type "./<filename>".
+
+
