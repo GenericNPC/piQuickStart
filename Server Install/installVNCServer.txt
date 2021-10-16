@@ -1,0 +1,1 @@
+sudo dpkg -i VNC-Server-6.7.4-Linux-ARM.deb
